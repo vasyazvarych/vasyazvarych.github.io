@@ -1,4 +1,4 @@
-# vasyazvarych.github.io/majstri
+# vasyazvarych.github.io/majstri/
 HAIR
 
 <!DOCTYPE html>

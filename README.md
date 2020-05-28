@@ -2,9 +2,9 @@
 HAIR
 <!DOCTYPE html>
 <!-- saved from url=(0036)https://makeup-zvrch.webnode.com.ua/ -->
-<html class="js flexbox cssmask objectfit object-fit pc fonts-loaded" prefix="og: https://ogp.me/ns#" lang="uk"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><link rel="apple-touch-icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><link rel="icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>MakeUp zvrch</title><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="msapplication-tap-highlight" content="no"><link href="./index_files/3ynldv.css" rel="stylesheet"><link href="./index_files/4egfuu.css" rel="stylesheet"><link rel="stylesheet" href="./index_files/1ka1y0.css" data-wnd_color_scheme_file=""><link rel="stylesheet" href="./index_files/2g7fhp.css" data-wnd_additive_color_file=""><link rel="stylesheet" href="./index_files/25ceqj.css" data-wnd_typography_file=""><meta name="description" content="vasyl.zvarych.pz.2017@lpnu.ua"><meta name="keywords" content=""><meta name="generator" content="Webnode 2"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no">
+<html class="js flexbox cssmask objectfit object-fit pc fonts-loaded" prefix="og: https://ogp.me/ns#" lang="uk"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><link rel="apple-touch-icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><link rel="icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=d37ddd2986"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>MakeUp zvrch</title><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="msapplication-tap-highlight" content="no"><link href="./ZVARYCHHHH_files/3ynldv.css" rel="stylesheet"><link href="./ZVARYCHHHH_files/4egfuu.css" rel="stylesheet"><link rel="stylesheet" href="./ZVARYCHHHH_files/1ka1y0.css" data-wnd_color_scheme_file=""><link rel="stylesheet" href="./ZVARYCHHHH_files/2g7fhp.css" data-wnd_additive_color_file=""><link rel="stylesheet" href="./ZVARYCHHHH_files/25ceqj.css" data-wnd_typography_file=""><meta name="description" content="ZVRCH&amp;amp;HAIR поєднав у собі старовинні традиції з технологіями, кінематографічне освітлення для якісної геометрії в стрижках і класичні техніки з мистецтвом скульптури чоловічої стрижки, тільки так можна розкрити і створити індивідуальний, впевнений образ.Наша перукарня - перша, хто наважилася порушити всі стереотипи, ми симбіоз Барбера, скульпторів..."><meta name="keywords" content=""><meta name="generator" content="Webnode 2"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no">
 
-<meta property="og:url" content="https://makeup-zvrch.webnode.com.ua/"><meta property="og:title" content="MakeUp zvrch"><meta property="og:type" content="article"><meta property="og:description" content="vasyl.zvarych.pz.2017@lpnu.ua"><meta property="og:site_name" content="MakeUp zvrch"><meta property="og:image" content="https://d1di2lzuh97fh2.cloudfront.net/files/2r/2rn/700/2rnorn.jpg?ph=d37ddd2986"><meta property="og:article:published_time" content="2020-05-24T00:00:00+0200"><meta name="robots" content="index,follow"><link rel="canonical" href="https://makeup-zvrch.webnode.com.ua/"><script async="" src="./index_files/analytics.js.Без названия"></script><script>window.checkAndChangeSvgColor=function(c){try{var a=document.getElementById(c);if(a){c=[["border","borderColor"],["outline","outlineColor"],["color","color"]];for(var h,b,d,f=[],e=0,m=c.length;e<m;e++)if(h=window.getComputedStyle(a)[c[e][1]].replace(/\s/g,"").match(/^rgb[a]?\(([0-9]{1,3}),([0-9]{1,3}),([0-9]{1,3})/i)){b="";for(var g=1;3>=g;g++)b+=("0"+parseInt(h[g],10).toString(16)).slice(-2);"0"===b.charAt(0)&&(d=parseInt(b.substr(0,2),16),d=Math.max(16,d),b=d.toString(16)+b.slice(-4));f.push(c[e][0]+"="+b)}if(f.length){var k=a.getAttribute("data-src"),l=k+(0>k.indexOf("?")?"?":"&")+f.join("&");a.src!=l&&(a.src=l,a.outerHTML=a.outerHTML)}}}catch(n){}};</script><link rel="stylesheet" href="./index_files/cyn5vds.css"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+<meta property="og:url" content="https://makeup-zvrch.webnode.com.ua/"><meta property="og:title" content="MakeUp zvrch"><meta property="og:type" content="article"><meta property="og:description" content="ZVRCH&amp;amp;HAIR поєднав у собі старовинні традиції з технологіями, кінематографічне освітлення для якісної геометрії в стрижках і класичні техніки з мистецтвом скульптури чоловічої стрижки, тільки так можна розкрити і створити індивідуальний, впевнений образ.Наша перукарня - перша, хто наважилася порушити всі стереотипи, ми симбіоз Барбера, скульпторів..."><meta property="og:site_name" content="MakeUp zvrch"><meta property="og:image" content="https://d1di2lzuh97fh2.cloudfront.net/files/2r/2rn/700/2rnorn.jpg?ph=d37ddd2986"><meta property="og:article:published_time" content="2020-05-28T00:00:00+0200"><meta name="robots" content="index,follow"><link rel="canonical" href="https://makeup-zvrch.webnode.com.ua/"><script async="" src="./ZVARYCHHHH_files/analytics.js.Без названия"></script><script>window.checkAndChangeSvgColor=function(c){try{var a=document.getElementById(c);if(a){c=[["border","borderColor"],["outline","outlineColor"],["color","color"]];for(var h,b,d,f=[],e=0,m=c.length;e<m;e++)if(h=window.getComputedStyle(a)[c[e][1]].replace(/\s/g,"").match(/^rgb[a]?\(([0-9]{1,3}),([0-9]{1,3}),([0-9]{1,3})/i)){b="";for(var g=1;3>=g;g++)b+=("0"+parseInt(h[g],10).toString(16)).slice(-2);"0"===b.charAt(0)&&(d=parseInt(b.substr(0,2),16),d=Math.max(16,d),b=d.toString(16)+b.slice(-4));f.push(c[e][0]+"="+b)}if(f.length){var k=a.getAttribute("data-src"),l=k+(0>k.indexOf("?")?"?":"&")+f.join("&");a.src!=l&&(a.src=l,a.outerHTML=a.outerHTML)}}}catch(n){}};</script><link rel="stylesheet" href="./ZVARYCHHHH_files/cyn5vds.css"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-797705-6', 'auto',{"name":"wnd_header"});ga('wnd_header.set', 'dimension1', 'W2');ga('wnd_header.set', 'anonymizeIp', true);ga('wnd_header.send', 'pageview');</script></head><body class="l l-01 l-box layout-01 wt-boxed-bg c-s-m wt-home ac-s ac-i b-btn-sq b-btn-s-l b-btn-dn b-btn-bw-1 img-d-n img-t-o img-h-z line-solid b-e-c b-e-ds lbox-d wnd-fe wnd-fonts-fallback desktop safari">
@@ -66,7 +66,7 @@ HAIR
 				<div class="claim-inner">
 					<div class="section-inner">
 						<h1><span class="styled-inline-text claim-default playfair-display">
-	<span><span><font class="wnd-font-size-80">Barbershop<font class="wnd-font-size-30">(Перукарня)</font></font></span></span>
+	<span><span><font class="wnd-font-size-90">Barbershop</font><font class="wnd-font-size-20">(перукарня)</font></span></span>
 </span></h1>
 					</div>
 				</div>
@@ -109,7 +109,7 @@ HAIR
 	<div class="c-c"><div class="b-img b-img-default b b-s cf wnd-orientation-portrait wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_109188">
     <div class="b-img-w">
         <div class="b-img-c cf" style="padding-bottom:125.65%;text-align:center;">
-            <img src="./index_files/2rnorn.jpg" alt="" style="top:-9.69%;left:0%;width:100%;height:auto;position:absolute;"><div class="b-img-embed">
+            <img src="./ZVARYCHHHH_files/2rnorn.jpg" alt="" style="top:-9.69%;left:0%;width:100%;height:auto;position:absolute;"><div class="b-img-embed">
                 </div>
         </div>
 
@@ -122,9 +122,9 @@ HAIR
 
 <h2>Василь Зварич</h2>
 
-<h3><em>Власник&nbsp;&amp;&nbsp;Перукар(Barber)</em></h3>
+<h3>Власник&nbsp;&amp;&nbsp;Перукар(Barber)</h3>
 
-<p><strong>ZVRCH&amp;HAIR</strong> поєднав у собі старовинні традиції з технологіями, кінематографічне освітлення для якісної геометрії в стрижках і класичні техніки з мистецтвом скульптури чоловічої стрижки, тільки так можна розкрити і створити індивідуальний, впевнений образ.Наша <strong>перукарня</strong> - перша, хто наважилася порушити всі стереотипи, ми симбіоз Барбера, скульпторів і класиків - які прагнуть досконалості. Щотижня проводимо зустрічі та майстер-класи у <strong>Львові та Україні</strong>, ділимося секретами і тонкощами правильного гоління в домашніх умовах небезпечною бритвою, ритуалах королівського гоління.&nbsp;<br></p>
+<p>ZVRCH&amp;HAIR поєднав у собі старовинні традиції з технологіями, кінематографічне освітлення для якісної геометрії в стрижках і класичні техніки з мистецтвом скульптури чоловічої стрижки, тільки так можна розкрити і створити індивідуальний, впевнений образ.Наша перукарня - перша, хто наважилася порушити всі стереотипи, ми симбіоз Барбера, скульпторів і класиків - які прагнуть досконалості. Щотижня проводимо зустрічі та майстер-класи у Львові та Україні, ділимося секретами і тонкощами правильного гоління в домашніх умовах небезпечною бритвою, ритуалах королівського гоління.&nbsp;<br></p>
 </div>
 </div></div>
 </div></div>
@@ -149,17 +149,17 @@ HAIR
 	<div class="gallery-wrapper cf">
 		<div class="gallery-photo wnd-orientation-square">
 			<a class="litebox" data-litebox-group="gallery" data-litebox-text="" href="https://makeup-zvrch.webnode.com.ua/_files/200000005-cf100cf103/snpfzo6y10.png" width="220" height="220">
-				<div class="gallery-image cf"><img src="./index_files/snpfzo6y10.png" alt=""></div>
+				<div class="gallery-image cf"><img src="./ZVARYCHHHH_files/snpfzo6y10.png" alt=""></div>
 				<div class="gallery-title image-title"><span></span></div>
 			</a>
 		</div><div class="gallery-photo wnd-orientation-square">
 			<a class="litebox" data-litebox-group="gallery" data-litebox-text="" href="https://makeup-zvrch.webnode.com.ua/_files/200000006-339bb339bd/w0imvv3ubv.png" width="220" height="220">
-				<div class="gallery-image cf"><img src="./index_files/w0imvv3ubv.png" alt=""></div>
+				<div class="gallery-image cf"><img src="./ZVARYCHHHH_files/w0imvv3ubv.png" alt=""></div>
 				<div class="gallery-title image-title"><span></span></div>
 			</a>
 		</div><div class="gallery-photo wnd-orientation-square">
 			<a class="litebox" data-litebox-group="gallery" data-litebox-text="" href="https://makeup-zvrch.webnode.com.ua/_files/200000007-9484294844/5uau5ruwti.png" width="220" height="220">
-				<div class="gallery-image cf"><img src="./index_files/5uau5ruwti.png" alt=""></div>
+				<div class="gallery-image cf"><img src="./ZVARYCHHHH_files/5uau5ruwti.png" alt=""></div>
 				<div class="gallery-title image-title"><span></span></div>
 			</a>
 		</div>
@@ -167,6 +167,26 @@ HAIR
 	
 </div><div class="b b-text cf">
 	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><p>Віталій Музика&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Юлічка&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Юрій Гвоздик</p></div>
+</div>
+	</div>
+	
+</div>
+	</div>
+</section><section class="section s default-01 design-01 sc-w"><div class="section-bg s-bg">
+		<div class="section-bg-layer">
+			
+		</div>
+		<div class="section-bg-layer section-bg-overlay"></div>
+	</div>
+	<div class="section-inner">
+		<div class="content ez cf wnd-no-cols">
+	<div class="ez-c">
+		<div class="b b-video b-s" style="margin-left:6.3931297709924%;margin-right:6.3931297709924%;">
+	<div class="b-c" style="position:relative;padding-bottom:56.25%;">
+		<iframe src="./ZVARYCHHHH_files/U-B_VXFRNhU.html" style="position:absolute;top:0%;left:0%;width:100%;height:100%;" allowfullscreen="1"></iframe>
+	</div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"></div>
 </div>
 	</div>
 	
@@ -315,10 +335,10 @@ HAIR
 </div>
 			</div>
 
-			<div class="column-box column-content pr pr-0 pr-320" style="height: 526px;">
+			<div class="column-box column-content pr pr-0 pr-320" style="height: 520px;">
 				<div class="b-map b-s" style="margin-left:0%;margin-right:0%;">
 	<div class="b-c" id="wnd_MapBlock_552066_container" style="position:relative;padding-bottom:97.67%;">
-		<iframe src="./index_files/saved_resource.html" style="position:absolute;top:0%;left:0%;width:100%;height:100%;"></iframe>
+		<iframe src="./ZVARYCHHHH_files/saved_resource.html" style="position:absolute;top:0%;left:0%;width:100%;height:100%;"></iframe>
 	</div>
 </div>
 			</div>
